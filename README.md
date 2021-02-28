@@ -22,7 +22,6 @@ ___
 ---
 
 
-
 ## Text Formatting
 
 *italic* |
@@ -205,21 +204,6 @@ farhan ellahi
 
 
 [![Farhan Ellahi Linkedin Profile Image](https://media-exp1.licdn.com/dms/image/C4D03AQGAChwL1Ss02Q/profile-displayphoto-shrink_200_200/0/1598634908038?e=1620259200&v=beta&t=7qCfFtzmK4UOdHp9wcFOO4bJLpm5Tbo7dnwdeSN7tog "Farhan Ellahi Linkedin Image")](https://media-exp1.licdn.com/dms/image/C4D03AQGAChwL1Ss02Q/profile-displayphoto-shrink_200_200/0/1598634908038?e=1620259200&v=beta&t=7qCfFtzmK4UOdHp9wcFOO4bJLpm5Tbo7dnwdeSN7tog)
-
-
-## Footnote
-
-here's a simple footnote. [^1]
-
-Here are big footnore. [^bignote]
-
-[^1]: Here are example of footnote.  
-[^bignote]: Here are bignote example.
-```css
-body {
-  color: red;
-}
-```  
 
 
 ## Table
