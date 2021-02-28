@@ -1,3 +1,7 @@
+<html>
+<head><meta charset="utf-16"/></head>
+</html>
+
 ## Headings
 
 # h1
@@ -156,14 +160,6 @@ print(function())
     * Pavilion
   * ~~Haier~~
 
-## Definition List
-First Term  
-: This is the definition of the first term.
-
-Second Term  
-: This is one definition of the second term.  
-: This is another definition of the second term.
-
 ## Task List
 - [x] checkbox
 - [x] check
@@ -224,9 +220,14 @@ farhan ellahi
 |Nanosoft|thenanosoft.com|
 
 
-|SR.|Name|Age|
-|:-|:-:|-:|
-|1|Farhan|23|
-|2|Arslan|22|
-|3|Nauman|20|
+|SR.|Name|Age
+|:-|:-:|-:
+|1|Farhan|23
+|2|`Arslan`|22
+|3|Nauman|20
 
+## Emoji  
+❤️ :heart:  
+🤔😏😏😏
+
+[Emoji Cheat Sheet](https://gist.github.com/rxaviers/7360908#file-gistfile1-md)
