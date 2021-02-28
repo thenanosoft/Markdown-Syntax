@@ -228,6 +228,6 @@ farhan ellahi
 
 ## Emoji  
 :heart:   
-```\:heart\:```
+```:heart:```
 
 [Emoji Cheat Sheet](https://gist.github.com/rxaviers/7360908#file-gistfile1-md)
