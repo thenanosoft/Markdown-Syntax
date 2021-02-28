@@ -156,6 +156,14 @@ print(function())
     * Pavilion
   * ~~Haier~~
 
+## Definition List
+First Term  
+: This is the definition of the first term.
+
+Second Term  
+: This is one definition of the second term.  
+: This is another definition of the second term.
+
 ## Task List
 - [x] checkbox
 - [x] check
@@ -221,3 +229,4 @@ farhan ellahi
 |1|Farhan|23|
 |2|Arslan|22|
 |3|Nauman|20|
+
